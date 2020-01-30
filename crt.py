@@ -1,5 +1,5 @@
 # ---------------------------------------------------------------------------------------------------------------------------------------------
-# Assignment 1    Chinese Reminder Theorem
+# Chinese Reminder Theorem
 # Author:         Shengqian Wang
 # Date:           09/18/2018
 # Description:    Finds the value of x that satisfies a system of congruencies.The most part of the code is copied form the internet, some 

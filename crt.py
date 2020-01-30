@@ -1,8 +1,6 @@
 # ---------------------------------------------------------------------------------------------------------------------------------------------
 # Assignment 1    Chinese Reminder Theorem
-# Course:         INFR 3600U
 # Author:         Shengqian Wang
-# Student Number: 100474399
 # Date:           09/18/2018
 # Description:    Finds the value of x that satisfies a system of congruencies.The most part of the code is copied form the internet, some 
 #				  parts are modified to meet the requirements. 
